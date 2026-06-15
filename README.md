@@ -42,7 +42,7 @@ weblogin/
 ## 📌 How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/aneekpakhira/weblogin.git
+   git clone https://github.com/aneekpakhira/login-page.git
 2. Open index.html in your browser.
 
 👨‍💻 Author
