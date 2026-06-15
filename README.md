@@ -3,7 +3,7 @@
 A simple and responsive **Login & Signup UI** built using HTML and CSS.
 
 ## 🚀 Live Demo
-👉 https://aneekpakhira.github.io/weblogin/
+👉 https://aneekpakhira.github.io/login-page/
 
 ## 📸 Preview
 (Add a screenshot here later)
